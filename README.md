@@ -129,7 +129,7 @@ After getting list of song and log JSON files from its corresponding directory a
 
 Below are screenshots of some of the SQL queries:<br>
 ***Number of uniques values in each tables***<br>
-![Example queries 1](./images/unique_rows.png "Unique rows in sparkifydb database")
+![Example queries 1](./images/unique_rows_sc.png "Unique rows in sparkifydb database")
 
 ***Artists table***<br>
 ![Example queries 2](./images/artists_example.png "Sample of artists table")
