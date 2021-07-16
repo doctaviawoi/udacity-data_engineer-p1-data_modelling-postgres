@@ -1,4 +1,4 @@
-# Udacity - Data Engineering Nano Degree
+# Udacity - Data Engineering Nanodegree
 
 ## Project 1: Data Modelling with PostgreSQL
 
